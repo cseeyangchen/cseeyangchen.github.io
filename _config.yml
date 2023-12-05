@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yang Chen (陈扬) - Homepage"
+description              : "Third year's master student."
 repository               : "cseeyangchen/cseeyangchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yang Chen (陈扬)"
-  avatar           : "images/seaside_yangchen.png"
-  bio              : "University of Electronic Science and Technology of China"
+  avatar           : "images/seaside_yangchen_512.png"
+  bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
