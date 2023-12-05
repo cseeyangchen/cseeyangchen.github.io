@@ -22,13 +22,17 @@ I am currently a third-year master's student under the supervision of [Prof. Lin
 My research interest includes computer vision, human action recognition, and the intersection of AI and health. If you share similar interests or are open to discussing academic research, please feel free to contact me via email or add me on WeChat. I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
 # 📖 Educations
-- *2021.06 - 2024.06 (now)*, M.Eng., School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-- *2018.09 - 2021.06*, B.B.A., School of Management and Economics, University of Electronic Science and Technology of China, Chengdu, China. 
-- *2017.09 - 2021.06*, B.Sc., School of Physics, University of Electronic Science and Technology of China, Chengdu, China. 
+- *2021.06 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China, Chengdu, China (Supervisor: Prof. Ling Wang)
+- *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China, Chengdu, China. 
+- *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 Admitted to the Ph.D. program with Deparment of Computing, Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
+- *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
+- *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCI)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
+- *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
+- *2023.06*: &nbsp;🎉🎉 Serve as Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
 
