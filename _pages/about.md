@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year master's student under the supervision of [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm) at the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I will graduate and receive my M.Eng. degree. Prior to that, I received my B.Sc degree in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC in Jun. 2021. Concurrently I obtained a B.B.A. degree in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
+I am currently a third-year master's student under the supervision of [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm) at the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I will graduate and receive my M.Eng. degree. Prior to that, I received my B.Sc. degree in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC in Jun. 2021. Concurrently I obtained a B.B.A. degree in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
 
 My research interest includes computer vision, human action recognition, and the intersection of AI and health. If you share similar interests or are open to discussing academic research, please feel free to contact me via email or add me on WeChat. I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
-
+# 📖 Educations
+- *2021.06 - 2024.06 (now)*, M.Eng., School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+- *2018.09 - 2021.06*, B.B.A., School of Management and Economics, University of Electronic Science and Technology of China, Chengdu, China. 
+- *2017.09 - 2021.06*, B.Sc., School of Physics, University of Electronic Science and Technology of China, Chengdu, China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -47,9 +50,7 @@ My research interest includes computer vision, human action recognition, and the
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
