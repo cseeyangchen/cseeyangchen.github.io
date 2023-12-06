@@ -37,6 +37,20 @@ My research interest includes computer vision, human action recognition, and the
 # 📝 Publications 
 ## Published and Accepted Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM23</div><img src='images/BIBM23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU]()
+
+**Yang Chen**, Tian He, Xu Gao, Hong Cheng, Ling Wang*
+
+*IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
+
+**Contribution:** We design a PLFormer approach based on spatial-temporal prior knowledge prompts related to patients' actions to strategically optimize and guied the learning process towards significant body parts of patients.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,30 +95,9 @@ My research interest includes computer vision, human action recognition, and the
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM23</div><img src='images/BIBM23.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU]()
-
-**Yang Chen**, Tian He, Xu Gao, Hong Cheng, Ling Wang*
-
-*IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
-
-**Contribution:** We design a PLFormer approach based on spatial-temporal prior knowledge prompts related to patients' actions to strategically optimize and guied the learning process towards significant body parts of patients.
-
-</div>
-</div>
 
 ## Submitted Papers
-
-- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />
-**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingyin Wang, Dekun Hu, Hong Cheng, <br />
-<!-- Submitted to *Computer Methods and Programs in Biomedicine* (CMPB, JCR-Q1/中科院2区/IF=6.1, Under Review), 2023 -->
-
-- [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](), <br />
-Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
-<!-- Submitted to *IEEE Transactions on Neural System and Rehabilitation Engineeringe* (TNNRE, JCR-Q1/中科院2区/IF=4.9, Revision), 2023 -->
-
 - [Vision-Language Meets the Skeleton: A Novel Pre-training Paradigm with Large Multimodal Models](), <br />
 **Yang Chen**, Tian He, Junfeng Fu, Ling Wang*, Jingcai Guo, Hong Cheng, <br />
 <!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
@@ -112,6 +105,25 @@ Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
 - [Vision-Instructed Language Prompts Assist Skeleton-Based Action Recognition: Bridging Environmental Information Gaps](), <br />
 Tian He, **Yang Chen**, Xu Gao, Ling Wang, Hong Cheng*, <br />
 <!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
+
+- [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](), <br />
+Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
+<!-- Submitted to *IEEE Transactions on Neural System and Rehabilitation Engineeringe* (TNNRE, JCR-Q1/中科院2区/IF=4.9, Revision), 2023 -->
+
+- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />
+**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingyin Wang, Dekun Hu, Hong Cheng, <br />
+<!-- Submitted to *Computer Methods and Programs in Biomedicine* (CMPB, JCR-Q1/中科院2区/IF=6.1, Under Review), 2023 -->
+
+
+## Patents
+- [A Method for Optimizing Dietary Energy Intake in Cancer Patients](), <br />
+Tian Zhang, Yao Liu, **Yang Chen**, Ling Wang, Guorong Wang, Jing Qiu, Yufang Ren, Hongyan Zhou, Yuliang Gao, Xianggang Zhang, Min Tang, Kewang Li, Xiaowei Meng, Mingmin Liu, Ling Wang<br />
+Public Number: CN 116665843 B, Application Date: 2023-07-28, Public Date: 2023-10-13
+
+- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring](), <br />
+**Yang Chen**, Ling Wang, Yingyin Wang, Shuang Yang, Guorong Wang, <br />
+Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date: 2023-01-03
+
 
 # 🎖 Honors and Awards
 - *2023.10* The First Prize Academic Scholarship.
