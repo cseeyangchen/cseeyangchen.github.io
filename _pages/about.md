@@ -64,6 +64,23 @@ My research interest includes computer vision, human action recognition, and the
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC23</div><img src='images/EMBC23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU]()
+
+**Yang Chen**, Shuang Yang, Yingyin Wang, Guorong Wang, Hong Cheng, Ling Wang*
+
+*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
+
+**Contribution:** We propose a lightweight STformer based on spatial-temporal self-attention mechanisms to explore ICU patients' spatial representation and long-term dependency on ICU patients' fine-grained actions.
+
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
