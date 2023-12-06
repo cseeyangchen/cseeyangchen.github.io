@@ -95,7 +95,7 @@ My research interest includes computer vision, human action recognition, and the
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.10* The First Prize Academic Scholarship.
