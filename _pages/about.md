@@ -80,6 +80,20 @@ My research interest includes computer vision, human action recognition, and the
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM23</div><img src='images/BIBM23.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU]()
+
+**Yang Chen**, Tian He, Xu Gao, Hong Cheng, Ling Wang*
+
+*IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
+
+**Contribution:** We design a PLFormer approach based on spatial-temporal prior knowledge prompts related to patients' actions to strategically optimize and guied the learning process towards significant body parts of patients.
+
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
