@@ -136,10 +136,12 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 - *2019.10* The Excellent Academic Scholarship.
 - *2018.10* The Pacesetter Student Scholarship. 
 
-
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Volunteers
+## Journal Reviewer
+- Reviewer for IEEE Journal of Biomedical and Health Informatics (JBHI)
