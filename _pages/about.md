@@ -45,7 +45,21 @@ My research interest includes computer vision, human action recognition, and the
 
 *Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.000), 2023
 
-**Contribution: ** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
+**Contribution:** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI</div><img src='images/JVCI.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://authors.elsevier.com/c/1hxKT3OWJ94sLz)
+
+**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingying Wang, MingFang Xiang, Xuan Zhang, Hui Chen, Dekun Hu, Hong Cheng
+
+*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.000), 2023
+
+**Contribution:** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
 
 </div>
 </div>
