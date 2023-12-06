@@ -29,37 +29,37 @@ My research interest includes computer vision, human action recognition, and the
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
-- *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCI)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
+- *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
 - *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI_500_300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://authors.elsevier.com/c/1hxKT3OWJ94sLz)
 
 **Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingying Wang, MingFang Xiang, Xuan Zhang, Hui Chen, Dekun Hu, Hong Cheng
 
-*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.000), 2023
+*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.0), 2023
 
 **Contribution:** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCI</div><img src='images/JVCI.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCIR</div><img src='images/JVCI.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://authors.elsevier.com/c/1hxKT3OWJ94sLz)
+[Multi-view graph convolution network for the recognition of human action with spatial and temporal occlusion problems](https://authors.elsevier.com/c/1hyLm3k8X3qOxV)
 
-**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingying Wang, MingFang Xiang, Xuan Zhang, Hui Chen, Dekun Hu, Hong Cheng
+**Yang Chen**, Ling Wang*, Dekun Hu, Hong Cheng
 
-*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.000), 2023
+*Journal of Visual Communication and Image Representation* (JVCIR, CCF-C, JCR-Q2/中科院3区/IF=2.6), 2023.
 
-**Contribution:** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
+**Contribution:** We propose a separable multi-view information fusion module MGL with the property of "plug-and-play" for occlusion challenges in human action recognition.
 
 </div>
 </div>
