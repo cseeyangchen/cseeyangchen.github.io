@@ -35,6 +35,7 @@ My research interest includes computer vision, human action recognition, and the
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
+## Published and Accepted Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,8 +95,23 @@ My research interest includes computer vision, human action recognition, and the
 </div>
 </div>
 
+## Submitted Papers
 
-- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />A, B, C, **CVPR 2020**
+- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />
+**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingyin Wang, Dekun Hu, Hong Cheng, <br />
+<!-- Submitted to *Computer Methods and Programs in Biomedicine* (CMPB, JCR-Q1/中科院2区/IF=6.1, Under Review), 2023 -->
+
+- [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](), <br />
+Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
+<!-- Submitted to *IEEE Transactions on Neural System and Rehabilitation Engineeringe* (TNNRE, JCR-Q1/中科院2区/IF=4.9, Revision), 2023 -->
+
+- [Vision-Language Meets the Skeleton: A Novel Pre-training Paradigm with Large Multimodal Models](), <br />
+**Yang Chen**, Tian He, Junfeng Fu, Ling Wang*, Jingcai Guo, Hong Cheng, <br />
+<!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
+
+- [Vision-Instructed Language Prompts Assist Skeleton-Based Action Recognition: Bridging Environmental Information Gaps](), <br />
+Tian He, **Yang Chen**, Xu Gao, Ling Wang, Hong Cheng*, <br />
+<!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
 
 # 🎖 Honors and Awards
 - *2023.10* The First Prize Academic Scholarship.
