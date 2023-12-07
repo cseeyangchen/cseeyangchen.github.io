@@ -19,12 +19,12 @@ redirect_from:
 
 I am currently a third-year master's student under the supervision of [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm) at the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I will graduate and receive my M.Eng. degree. Prior to that, I received my B.Sc. degree in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC in Jun. 2021. Concurrently I obtained a B.B.A. degree in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
 
-My research interest includes computer vision, human action recognition, and the intersection of AI and health. If you share similar interests or are open to discussing academic research, please feel free to contact me via email or add me on WeChat. I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
+My research interest includes computer vision, human action recognition, and the intersection of AI and health. If you share similar interests or are open to discussing academic research, please feel free to email me at [csychen@std.uestc.edu.cn](csychen@std.uestc.edu.cn). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
 # 📖 Educations
 - *2021.06 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China, Chengdu, China (Supervisor: Prof. Ling Wang)
-- *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China, Chengdu, China. 
-- *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China. 
+- *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China, Chengdu, China
+- *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
@@ -68,7 +68,7 @@ My research interest includes computer vision, human action recognition, and the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCIR</div><img src='images/JVCI.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-view graph convolution network for the recognition of human action with spatial and temporal occlusion problems](https://authors.elsevier.com/c/1hyLm3k8X3qOxV)
+[Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems](https://authors.elsevier.com/c/1hyLm3k8X3qOxV)
 
 **Yang Chen**, Ling Wang*, Dekun Hu, Hong Cheng
 
