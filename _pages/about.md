@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year master's student under the supervision of [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm) at the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I will graduate and receive my M.Eng. degree. Prior to that, I received my B.Sc. degree in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC in Jun. 2021. Concurrently I obtained a B.B.A. degree in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
 
-My research interest includes computer vision, human action recognition, and AI+healthcare. If you share similar interests or are open to discussing academic research, please feel free to email me at [csychen@std.uestc.edu.cn](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
+My research interest includes **Computer Vision**, **Human Action Recognition**, **Zero/Few-shot Learning** and **AI+Healthcare**. If you share similar interests or are open to discussing academic research, please feel free to email me at [csychen@std.uestc.edu.cn](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China, Chengdu, China (Supervisor: Prof. Ling Wang)
@@ -117,11 +117,11 @@ Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
 
 
 ## Patents
-- [A Method for Optimizing Dietary Energy Intake in Cancer Patients](), <br />
+- [A Method for Optimizing Dietary Energy Intake in Cancer Patients (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](), <br />
 Tian Zhang, Yao Liu, **Yang Chen**, Ling Wang, Guorong Wang, Jing Qiu, Yufang Ren, Hongyan Zhou, Yuliang Gao, Xianggang Zhang, Min Tang, Kewang Li, Xiaowei Meng, Mingmin Liu, Ling Wang<br />
 Public Number: CN 116665843 B, Application Date: 2023-07-28, Public Date: 2023-10-13
 
-- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring](), <br />
+- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种肿瘤患者膳食能量摄入优化方法)](), <br />
 **Yang Chen**, Ling Wang, Yingyin Wang, Shuang Yang, Guorong Wang, <br />
 Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date: 2023-01-03
 
@@ -143,7 +143,7 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Volunteers
+# 💻 Services
 ## Journal Reviewer
 - Reviewer for IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - Reviewer for Biomedical Signal Processing and Control (BSPC)
