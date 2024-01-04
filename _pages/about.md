@@ -27,6 +27,7 @@ My research interest includes computer vision, human action recognition, and AI+
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Serve as a Reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) and [IEEE Open Journal of the Computer Society (IEEE OJ-CS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664). 
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
@@ -84,7 +85,7 @@ My research interest includes computer vision, human action recognition, and AI+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC23</div><img src='images/EMBC23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU]()
+[STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923)
 
 **Yang Chen**, Shuang Yang, Yingyin Wang, Guorong Wang, Hong Cheng, Ling Wang*
 
@@ -144,4 +145,6 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 
 # 💻 Volunteers
 ## Journal Reviewer
-- Reviewer for IEEE Journal of Biomedical and Health Informatics (JBHI)
+- Reviewer for IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+- Reviewer for Biomedical Signal Processing and Control (BSPC)
+- Reviewer for IEEE Open Journal of the Computer Society (IEEE OJ-CS)
