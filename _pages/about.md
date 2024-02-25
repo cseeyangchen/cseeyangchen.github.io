@@ -117,11 +117,11 @@ Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
 
 
 ## Patents
-- [A Method for Optimizing Dietary Energy Intake in Cancer Patients (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](), <br />
+- [A Method for Optimizing Dietary Energy Intake in Cancer Patients (一种肿瘤患者膳食能量摄入优化方法)](), <br />
 Tian Zhang, Yao Liu, **Yang Chen**, Ling Wang, Guorong Wang, Jing Qiu, Yufang Ren, Hongyan Zhou, Yuliang Gao, Xianggang Zhang, Min Tang, Kewang Li, Xiaowei Meng, Mingmin Liu, Ling Wang<br />
 Public Number: CN 116665843 B, Application Date: 2023-07-28, Public Date: 2023-10-13
 
-- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种肿瘤患者膳食能量摄入优化方法)](), <br />
+- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](), <br />
 **Yang Chen**, Ling Wang, Yingyin Wang, Shuang Yang, Guorong Wang, <br />
 Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date: 2023-01-03
 
@@ -148,3 +148,5 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 - Reviewer for IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - Reviewer for Biomedical Signal Processing and Control (BSPC)
 - Reviewer for IEEE Open Journal of the Computer Society (IEEE OJ-CS)
+## Conference Reviewer
+- Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
