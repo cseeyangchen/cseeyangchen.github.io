@@ -27,12 +27,16 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China
 
 # 🔥 News
-；- *2024.01*: &nbsp;🎉🎉 Serve as a Reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) and [IEEE Open Journal of the Computer Society (IEEE OJ-CS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664). 
+
+<div style='display: none'>
+- *2024.01*: &nbsp;🎉🎉 Serve as a Reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) and [IEEE Open Journal of the Computer Society (IEEE OJ-CS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664). 
+</div>
+
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
-；- *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
+- *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
