@@ -36,7 +36,11 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
+
+<div style='display: none'>
 - *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
+</div>
+
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
