@@ -34,8 +34,6 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
-## Published and Accepted Papers
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM23</div><img src='images/BIBM23.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
