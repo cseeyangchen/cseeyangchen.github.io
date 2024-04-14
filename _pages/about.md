@@ -27,18 +27,12 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China
 
 # 🔥 News
-
-<div style='display: none'>
-- *2024.01*: &nbsp;🎉🎉 Serve as a Reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) and [IEEE Open Journal of the Computer Society (IEEE OJ-CS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664). 
-</div>
+<!-- - *2024.01*: &nbsp;🎉🎉 Serve as a Reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) and [IEEE Open Journal of the Computer Society (IEEE OJ-CS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664). -->
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
-
-<div style='display: none'>
-- *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/).
-</div>
+<!-- - *2023.06*: &nbsp;🎉🎉 Serve as a Reviewer for [IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/). -->
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
@@ -104,18 +98,18 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 
 
-## Submitted Papers
+<!-- ## Submitted Papers
 - [Vision-Language Meets the Skeleton: A Novel Pre-training Paradigm with Large Multimodal Models](), <br />
 **Yang Chen**, Tian He, Junfeng Fu, Ling Wang*, Jingcai Guo, Hong Cheng, <br />
-<!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
+
 
 - [Vision-Instructed Language Prompts Assist Skeleton-Based Action Recognition: Bridging Environmental Information Gaps](), <br />
 Tian He, **Yang Chen**, Xu Gao, Ling Wang, Hong Cheng*, <br />
-<!-- Submitted to *The IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR24, CCF-A, Under Review), 2023 -->
+
 
 - [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](), <br />
 Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
-<!-- Submitted to *IEEE Transactions on Neural System and Rehabilitation Engineeringe* (TNNRE, JCR-Q1/中科院2区/IF=4.9, Revision), 2023 -->
+
 
 - [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />
 **Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingyin Wang, Dekun Hu, Hong Cheng, <br />
