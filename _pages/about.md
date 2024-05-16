@@ -22,11 +22,12 @@ I am currently a third-year master's student under the supervision of [Prof. Lin
 My research interest includes **Computer Vision**, **Human Action Recognition**, **Zero/Few-shot Learning** and **AI+Healthcare**. If you share similar interests or are open to discussing academic research, please feel free to email me at [csychen@std.uestc.edu.cn](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China, Chengdu, China (Supervisor: Prof. Ling Wang)
-- *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China, Chengdu, China
-- *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China, Chengdu, China
+- *2021.09 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China (Supervisor: [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm))
+- *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
+- *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 
 # 🔥 News
+- *2024.5*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
@@ -34,91 +35,44 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by EMBC 2023!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM23</div><img src='images/BIBM23.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU]()
+## 📜Preprints
 
-**Yang Chen**, Tian He, Xu Gao, Hong Cheng, Ling Wang*
+- ``arXiv 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487),
+**Y. Chen**, J. Guo*, T. He, X. Lu, L. Wang,
+*arXiv preprint* , 2024.
 
+## 📄 Conferences
+
+- ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735),
+**Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang*,
 *IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
 
-**Contribution:** We design a PLFormer approach based on spatial-temporal prior knowledge prompts related to patients' actions to strategically optimize and guied the learning process towards significant body parts of patients.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://authors.elsevier.com/c/1hxKT3OWJ94sLz)
-
-**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingying Wang, MingFang Xiang, Xuan Zhang, Hui Chen, Dekun Hu, Hong Cheng
-
-*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1/中科院1区/IF=8.0), 2023
-
-**Contribution:** This is the first work for early warning of patients' unplanned self-extubation behaviours in ICU by non-invasive and non-contacted RGB monitory videos.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCIR</div><img src='images/JVCI.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems](https://authors.elsevier.com/c/1hyLm3k8X3qOxV)
-
-**Yang Chen**, Ling Wang*, Dekun Hu, Hong Cheng
-
-*Journal of Visual Communication and Image Representation* (JVCIR, CCF-C, JCR-Q2/中科院3区/IF=2.6), 2023.
-
-**Contribution:** We propose a separable multi-view information fusion module MGL with the property of "plug-and-play" for occlusion challenges in human action recognition.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC23</div><img src='images/EMBC23.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923)
-
-**Yang Chen**, Shuang Yang, Yingyin Wang, Guorong Wang, Hong Cheng, Ling Wang*
-
+- ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923),
+**Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang*,
 *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
 
-**Contribution:** We propose a lightweight STformer based on spatial-temporal self-attention mechanisms to explore ICU patients' spatial representation and long-term dependency on ICU patients' fine-grained actions.
+## 📔 Journals
 
-</div>
-</div>
+- ``T-NSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287),
+T. He, **Y. Chen**, L. Wang, H. Cheng*,
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (T-NSRE, JCR-Q1,IF=4.9), 2024.
 
+- ``EAAI`` [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://www.sciencedirect.com/science/article/pii/S0952197623014781),
+**Y. Chen**, L. Wang*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng,
+*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1,IF=8.0), 2023.
 
+- ``JVCIR`` [Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems](https://www.sciencedirect.com/science/article/pii/S1047320323002079),
+**Y. Chen**, L. Wang*, D. Hu, H. Cheng,
+*Journal of Visual Communication and Image Representation* (JVCIR, CCF-C, JCR-Q2, IF=2.6), 2023.
 
-<!-- ## Submitted Papers
-- [Vision-Language Meets the Skeleton: A Novel Pre-training Paradigm with Large Multimodal Models](), <br />
-**Yang Chen**, Tian He, Junfeng Fu, Ling Wang*, Jingcai Guo, Hong Cheng, <br />
-
-
-- [Vision-Instructed Language Prompts Assist Skeleton-Based Action Recognition: Bridging Environmental Information Gaps](), <br />
-Tian He, **Yang Chen**, Xu Gao, Ling Wang, Hong Cheng*, <br />
-
-
-- [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](), <br />
-Tian He, **Yang Chen**, Ling Wang, Hong Cheng*, <br />
-
-
-- [Semantic Assisted Two-Stream Transformer for Early Warning of Abnormal Action in ICU](), <br />
-**Yang Chen**, Ling Wang*, Guorong Wang, Shuang Yang, Yingyin Wang, Dekun Hu, Hong Cheng, <br />
-<!-- Submitted to *Computer Methods and Programs in Biomedicine* (CMPB, JCR-Q1/中科院2区/IF=6.1, Under Review), 2023 -->
-
-
-## Patents
-- [A Method for Optimizing Dietary Energy Intake in Cancer Patients (一种肿瘤患者膳食能量摄入优化方法)](), <br />
-Tian Zhang, Yao Liu, **Yang Chen**, Ling Wang, Guorong Wang, Jing Qiu, Yufang Ren, Hongyan Zhou, Yuliang Gao, Xianggang Zhang, Min Tang, Kewang Li, Xiaowei Meng, Mingmin Liu, Ling Wang<br />
+## 🛠Patents
+- [A Method for Optimizing Dietary Energy Intake in Cancer Patients (一种肿瘤患者膳食能量摄入优化方法)](), 
+T. Zhang, Y. Liu, **Y. Chen**, L. Wang, G. Wang, J. Qiu, Y. Ren, H. Zhou, Y. Gao, X. Zhang, M. Tang, K. Li, X. Meng, M. Liu, L. Wang,
 Public Number: CN 116665843 B, Application Date: 2023-07-28, Public Date: 2023-10-13
 
-- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](), <br />
-**Yang Chen**, Ling Wang, Yingyin Wang, Shuang Yang, Guorong Wang, <br />
+- [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](),
+**Y. Chen**, L. Wang, Y. Wang, S. Yang, G. Wang, 
 Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date: 2023-01-03
 
 
@@ -133,19 +87,14 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 - *2019.10* The Excellent Academic Scholarship.
 - *2018.10* The Pacesetter Student Scholarship. 
 
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
 
 # 💻 Services
-## Journal Reviewer
+## 📑 Journal Reviewer
 - Reviewer for IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - Reviewer for Biomedical Signal Processing and Control (BSPC)
 - Reviewer for IEEE Open Journal of the Computer Society (IEEE OJ-CS)
   
-## Conference Reviewer
+## 📰 Conference Reviewer
 - Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 - International Conference on Machine Learning (ICML 2024)
 - ACM Multimedia (ACM-MM 2024)
