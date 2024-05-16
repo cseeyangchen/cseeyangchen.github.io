@@ -54,9 +54,9 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 ## 📔 Journals
 
-- ``T-NSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
+- ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
 T. He, **Y. Chen**, L. Wang, H. Cheng*, <br />
-*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (T-NSRE, JCR-Q1,IF=4.9), 2024.
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, JCR-Q1,IF=4.9), 2024.
 
 - ``EAAI`` [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://www.sciencedirect.com/science/article/pii/S0952197623014781), <br />
 **Y. Chen**, L. Wang*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
