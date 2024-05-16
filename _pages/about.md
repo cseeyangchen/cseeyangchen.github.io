@@ -38,8 +38,8 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 ## 📜Preprints
 
-- ``arXiv 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br />
-**Y. Chen**, J. Guo*, T. He, X. Lu, L. Wang, <br />
+- ``arXiv 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br>
+**Y. Chen**, J. Guo*, T. He, X. Lu, L. Wang, <br>
 *arXiv preprint* , 2024.
 
 ## 📄 Conferences
