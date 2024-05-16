@@ -39,31 +39,31 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 ## 📜Preprints
 
 - ``arXiv 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br />
-**Y. Chen**, J. Guo<sup>*</sup>, T. He, X. Lu, L. Wang, <br />
+**Y. Chen**, J. Guo*, T. He, X. Lu, L. Wang, <br />
 *arXiv preprint* , 2024.
 
 ## 📄 Conferences
 
 - ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735), <br />
-**Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang<sup>*</sup>, <br />
+**Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang*, <br />
 *IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
 
 - ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923), <br />
-**Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang<sup>*</sup>, <br />
+**Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang*, <br />
 *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
 
 ## 📔 Journals
 
 - ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
-T. He, **Y. Chen**, L. Wang, H. Cheng<sup>*</sup>, <br />
+T. He, **Y. Chen**, L. Wang, H. Cheng*, <br />
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, JCR-Q1,IF=4.9), 2024.
 
 - ``EAAI`` [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://www.sciencedirect.com/science/article/pii/S0952197623014781), <br />
-**Y. Chen**, L. Wang<sup>*</sup>, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
+**Y. Chen**, L. Wang*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
 *Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1,IF=8.0), 2023.
 
 - ``JVCIR`` [Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems](https://www.sciencedirect.com/science/article/pii/S1047320323002079), <br />
-**Y. Chen**, L. Wang<sup>*</sup>, D. Hu, H. Cheng, <br />
+**Y. Chen**, L. Wang*, D. Hu, H. Cheng, <br />
 *Journal of Visual Communication and Image Representation* (JVCIR, CCF-C, JCR-Q2, IF=2.6), 2023.
 
 ## 🛠Patents
