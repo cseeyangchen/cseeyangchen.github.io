@@ -27,7 +27,7 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 
 # 🔥 News
-- *2024.5*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
