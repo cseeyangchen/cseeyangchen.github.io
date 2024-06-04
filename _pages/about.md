@@ -42,6 +42,10 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 **Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
 *arXiv preprint* , 2024.
 
+- ``arXiv 2024`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
+**Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, H. Cheng <br>
+*arXiv preprint* , 2024.
+
 ## 📄 Conferences
 
 - ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735), <br />
