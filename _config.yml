@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Chen (陈扬) - Homepage"
-description              : "Third-year master's student."
+description              : "Incoming Ph.D. Student."
 repository               : "cseeyangchen/cseeyangchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang Chen (陈扬)"
   avatar           : "images/seaside_yangchen_512.png"
-  bio              : "University of Electronic Science and Technology of China (UESTC)"
+  bio              : "The Hong Kong Polytechnic University (PolyU)"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=nGM64VMAAAAJ&hl=zh-CN&authuser=1"
-  email            : "csychen@std.uestc.edu.cn"
+  email            : "cseeychen@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
