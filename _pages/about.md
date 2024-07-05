@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year master's student under the supervision of [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm) at the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I will graduate and receive my M.Eng. degree. Prior to that, I received my B.Sc. degree in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC in Jun. 2021. Concurrently I obtained a B.B.A. degree in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
+Hi, I received my M.Eng. degree (2024) from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, supervised by [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm). Prior to that, I received my B.Sc. degree (2021) in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC. Concurrently I obtained a B.B.A. degree (2021) in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
 
-My research interest includes **Computer Vision**, **Human Action Recognition**, **Zero/Few-shot Learning** and **AI+Healthcare**. If you share similar interests or are open to discussing academic research, please feel free to email me at [csychen@std.uestc.edu.cn](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
+My research interest includes **Computer Vision**, **Human Action Recognition**, **Zero/Few-shot Learning** and **AI+Healthcare**. If you share similar interests or are open to discussing academic research, please feel free to email me at [cseeychen@gmail.com](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, M.Eng., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China (Supervisor: [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm))
+- *2021.09 - 2024.06*, M.Eng., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China (Supervisor: [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm))
 - *2018.09 - 2021.06*, B.B.A., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 
@@ -101,4 +101,4 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 ## 📰 Conference Reviewer
 - Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 - International Conference on Machine Learning (ICML 2024)
-- ACM Multimedia (ACM-MM 2024)
+- ACM International Conference on Multimedia (ACM-MM 2024)
