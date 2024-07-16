@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I received my M.Eng. degree (2024) from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, supervised by [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm). Prior to that, I received my B.Sc. degree (2021) in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC. Concurrently I obtained a B.B.A. degree (2021) in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with Department of Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
+Hi, I received my M.Eng. degree (2024) from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, supervised by [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm). Prior to that, I received my B.Sc. degree (2021) in Electronic Information Science and Technology from the [School of Physics](https://www.sp.uestc.edu.cn/) of UESTC. Concurrently I obtained a B.B.A. degree (2021) in Business Administration from the [School of Management and Economics](https://www.mgmt.uestc.edu.cn/index.htm) of UESTC at the same period. Looking toward the future, I am honored to have the opportunity to pursue a Ph.D. degree under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/), with the Department of Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/) in Hong Kong SAR, starting in Sep. 2024. 
 
 My research interest includes **Computer Vision**, **Human Action Recognition**, **Zero/Few-shot Learning** and **AI+Healthcare**. If you share similar interests or are open to discussing academic research, please feel free to email me at [cseeychen@gmail.com](). I believe this form of mutual learning will create new opportunities for interesting research, benefiting all of us. 
 
@@ -27,8 +27,9 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM-MM 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
-- *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at Hong Kong Polytechnic University, under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
+- *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
@@ -38,15 +39,15 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 ## 📜Preprints
 
-- ``arXiv 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br>
-**Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
-*arXiv preprint* , 2024.
-
 - ``arXiv 2024`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
 **Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, H. Cheng <br>
 *arXiv preprint* , 2024.
 
 ## 📄 Conferences
+
+- ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br />
+**Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
+*ACM International Conference on Multimedia* (ACM-MM 24, CCF-A), 2024.
 
 - ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735), <br />
 **Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang\*, <br />
