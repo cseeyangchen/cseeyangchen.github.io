@@ -55,13 +55,13 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 - ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923), <br />
 **Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang\*, <br />
-*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23, CCF-B), 2023.
+*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
 
 ## 📔 Journals
 
 - ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
 T. He, **Y. Chen**, L. Wang, H. Cheng\*, <br />
-*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, CCF-B, JCR-Q1, IF=4.9), 2024.
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, JCR-Q1, IF=4.9), 2024.
 
 - ``EAAI`` [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://www.sciencedirect.com/science/article/pii/S0952197623014781), <br />
 **Y. Chen**, L. Wang\*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
