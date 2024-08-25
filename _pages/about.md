@@ -27,7 +27,7 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (电子科技大学), Chengdu, China
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM-MM 2024!
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2023!
@@ -47,7 +47,7 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 - ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br />
 **Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
-*ACM International Conference on Multimedia* (ACM-MM 24, CCF-A), 2024.
+*ACM International Conference on Multimedia* (ACM MM 24, CCF-A), 2024.
 
 - ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735), <br />
 **Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang\*, <br />
@@ -55,17 +55,17 @@ My research interest includes **Computer Vision**, **Human Action Recognition**,
 
 - ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923), <br />
 **Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang\*, <br />
-*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
+*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23, CCF-B), 2023.
 
 ## 📔 Journals
 
 - ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
 T. He, **Y. Chen**, L. Wang, H. Cheng\*, <br />
-*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, JCR-Q1,IF=4.9), 2024.
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering* (TNSRE, CCF-B, JCR-Q1, IF=4.9), 2024.
 
 - ``EAAI`` [Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU](https://www.sciencedirect.com/science/article/pii/S0952197623014781), <br />
 **Y. Chen**, L. Wang\*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
-*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1,IF=8.0), 2023.
+*Engineering Applications of Artificial Intelligence* (EAAI, CCF-C, JCR-Q1, IF=8.0), 2023.
 
 - ``JVCIR`` [Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems](https://www.sciencedirect.com/science/article/pii/S1047320323002079), <br />
 **Y. Chen**, L. Wang\*, D. Hu, H. Cheng, <br />
