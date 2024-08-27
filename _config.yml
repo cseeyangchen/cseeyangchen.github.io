@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yang Chen (陈扬) - Homepage"
-description              : "Incoming Ph.D. Student."
+title                    : "Yang Chen (陈扬)"
+description              : "Ph.D. Student."
 repository               : "cseeyangchen/cseeyangchen.github.io"
 google_scholar_stats_use_cdn : true
 
