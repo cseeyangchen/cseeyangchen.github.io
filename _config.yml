@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Chen (陈扬)"
-description              : "Ph.D. Student."
+description              : "Focusing on Human Action Recognition, Zero-Shot Learning, AI+Healthcare."
 repository               : "cseeyangchen/cseeyangchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang Chen (陈扬)"
   avatar           : "images/seaside_yangchen_512.png"
-  bio              : "The Hong Kong Polytechnic University (PolyU)"
+  bio              : "Ph.D. Student"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
