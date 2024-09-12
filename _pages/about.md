@@ -28,6 +28,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (UESTC, 电子科技大学), China
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
@@ -40,9 +41,6 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📜Preprints
 
-- ``arXiv 2024`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
-**Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, H. Cheng <br>
-*arXiv preprint* , 2024.
 
 ## 📄 Conferences
 
@@ -59,6 +57,10 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
 
 ## 📔 Journals
+
+- ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
+**Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, H. Cheng, T. Hu <br>
+*IEEE Transactions on Multimedia* (TMM, CCF-B, JCR-Q1, IF=8.4) , 2024.
 
 - ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
 T. He, **Y. Chen**, L. Wang, H. Cheng\*, <br />
