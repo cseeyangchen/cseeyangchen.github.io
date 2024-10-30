@@ -28,6 +28,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (UESTC, 电子科技大学), China
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
@@ -61,6 +62,10 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 - ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
 **Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, T. Hu, H. Cheng <br>
 *IEEE Transactions on Multimedia* (TMM, CCF-B, JCR-Q1, IF=8.4) , 2024.
+
+- ``TCSVT`` [Enhancing Skeleton-Based Action Recognition with Language Descriptions from Pre-trained Large Multimodal Models](), <br>
+T. He, **Y. Chen**, X. Gao, L. Wang, T. Hu, H. Cheng\* <br>
+*IEEE Transactions on Circuits and Systems for Video Technology* (TCSVT, CCF-B, JCR-Q1, IF=8.3) , 2024.
 
 - ``TNSRE`` [An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment](https://ieeexplore.ieee.org/document/10530287), <br />
 T. He, **Y. Chen**, L. Wang, H. Cheng\*, <br />
