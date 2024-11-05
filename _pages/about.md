@@ -45,7 +45,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📄 Conferences
 
-- ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2404.07487), <br />
+- ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://dl.acm.org/doi/10.1145/3664647.3681196), <br />
 **Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
 *ACM International Conference on Multimedia* (ACM MM 24, CCF-A), 2024.
 
@@ -63,7 +63,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 **Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, T. Hu, H. Cheng <br>
 *IEEE Transactions on Multimedia* (TMM, CCF-B, JCR-Q1, IF=8.4) , 2024.
 
-- ``TCSVT`` [Enhancing Skeleton-Based Action Recognition with Language Descriptions from Pre-trained Large Multimodal Models](), <br>
+- ``TCSVT`` [Enhancing Skeleton-Based Action Recognition with Language Descriptions from Pre-trained Large Multimodal Models](https://ieeexplore.ieee.org/document/10742343), <br>
 T. He, **Y. Chen**, X. Gao, L. Wang, T. Hu, H. Cheng\* <br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (TCSVT, CCF-B, JCR-Q1, IF=8.3) , 2024.
 
