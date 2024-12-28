@@ -62,7 +62,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📔 Journals
 
-- ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://arxiv.org/abs/2405.20606), <br>
+- ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://ieeexplore.ieee.org/abstract/document/10812782), <br>
 **Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, T. Hu, H. Cheng <br>
 *IEEE Transactions on Multimedia* (TMM, CCF-B, JCR-Q1, IF=8.4) , 2024.
 
