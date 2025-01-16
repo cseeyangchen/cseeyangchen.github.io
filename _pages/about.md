@@ -117,3 +117,4 @@ Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date:
 - ACM International Conference on Multimedia (ACM-MM 2024)
 - International Conference on Learning Representations (ICLR 2025)
 - AAAI Conference on Artificial Intelligence (AAAI 2025)
+- International Joint Conference on Artificial Intelligence (IJCAI 2025)
