@@ -93,7 +93,7 @@ Public Number: CN 116665843 B, Application Date: 2023-07-28, Public Date: 2023-1
 
 - [A Approach for Early Warning of Self-extubation Behavior of ICU Patients Based on RGB Video Monitoring (一种基于RGB视频监控的ICU患者自拔管行为预警方法)](), <br />
 **Y. Chen**, L. Wang, Y. Wang, S. Yang, G. Wang, <br />
-Application Number: CN202211237998.8, Application Date: 2022-10-10, Public Date: 2023-01-03
+Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-01-03
 
 
 # 🎖 Honors and Awards
