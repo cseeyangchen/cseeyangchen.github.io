@@ -28,6 +28,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 - *2017.09 - 2021.06*, B.Sc., University of Electronic Science and Technology of China (UESTC, 电子科技大学), China
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
@@ -46,11 +47,12 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 **Y. Chen**, J. Guo\*, S. Guo, J. Zhou, D. Tao, <br>
 *arXiv preprint: 2501.09411*, 2025.
 
-- ``arXiv 2024`` [Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2411.11288), <br />
-**Y. Chen**, J. Guo\*, S. Guo, D. Tao, <br>
-*arXiv preprint: 2411.11288*, 2024.
 
 ## 📄 Conferences
+
+- ``CVPR 2025`` [Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition](https://arxiv.org/abs/2411.11288), <br />
+**Y. Chen**, J. Guo\*, S. Guo, D. Tao, <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR 25, CCF-A), 2025.
 
 - ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://dl.acm.org/doi/10.1145/3664647.3681196), <br />
 **Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
