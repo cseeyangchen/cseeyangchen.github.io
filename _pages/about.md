@@ -43,10 +43,6 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📜Preprints
 
-- ``arXiv 2025`` [Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411), <br />
-**Y. Chen**, J. Guo\*, S. Guo, J. Zhou, D. Tao, <br>
-*arXiv preprint: 2501.09411*, 2025.
-
 
 ## 📄 Conferences
 
