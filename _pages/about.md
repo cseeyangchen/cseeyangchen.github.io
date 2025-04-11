@@ -118,3 +118,4 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 - International Conference on Learning Representations (ICLR 2025)
 - AAAI Conference on Artificial Intelligence (AAAI 2025)
 - International Joint Conference on Artificial Intelligence (IJCAI 2025)
+- Conference on Neural Information Processing Systems (NeurIPS 2025)
