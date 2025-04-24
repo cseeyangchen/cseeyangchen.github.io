@@ -107,6 +107,7 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 ## 📑 Journal Reviewer
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology  (IEEE TCSVT)
 - Reviewer for Neural Networks (NN)
+- Reviewer for Information Fusion (INFFUS)
 - Reviewer for IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - Reviewer for Biomedical Signal Processing and Control (BSPC)
 - Reviewer for IEEE Open Journal of the Computer Society (IEEE OJ-CS)
