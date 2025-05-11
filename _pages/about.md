@@ -62,7 +62,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📔 Journals
 - ``KBS`` [Multi-Level Skeleton Self-Supervised Learning: Enhancing 3D action representation learning with Large Multimodal Models](), <br>
-T. He, **Y. Chen**, X. Gao, L. Wang, R. Huang, H. Cheng <br>
+T. He, **Y. Chen**, X. Gao, L. Wang, R. Huang, H. Cheng\* <br>
 *Knowledge-Based Systems* (KBS, CCF-C, JCR-Q1, IF=7.2) , 2025.
 
 - ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://ieeexplore.ieee.org/abstract/document/10812782), <br>
