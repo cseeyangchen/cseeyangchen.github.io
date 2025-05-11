@@ -29,6 +29,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 # 🔥 News
 
+- *2025.4*: &nbsp;🎉🎉 One paper has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
@@ -60,6 +61,9 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
 
 ## 📔 Journals
+- ``KBS`` [Multi-Level Skeleton Self-Supervised Learning: Enhancing 3D action representation learning with Large Multimodal Models](), <br>
+T. He, **Y. Chen**, X. Gao, L. Wang, R. Huang, H. Cheng <br>
+*Knowledge-Based Systems* (KBS, CCF-C, JCR-Q1, IF=7.2) , 2025.
 
 - ``TMM`` [Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning](https://ieeexplore.ieee.org/abstract/document/10812782), <br>
 **Y. Chen**, T. He, J. Fu, L. Wang\*, J. Guo, T. Hu, H. Cheng <br>
