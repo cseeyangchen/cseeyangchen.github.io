@@ -29,7 +29,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 # 🔥 News
 
-- *2025.4*: &nbsp;🎉🎉 One paper has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
+- *2025.04*: &nbsp;🎉🎉 One paper has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024!
