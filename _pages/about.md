@@ -51,19 +51,23 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 - ``IJCAI 2025`` [Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning](), <br />
 Z. Rao, J. Guo\*, M. Li, **Y. Chen**, M. Wang, <br>
-*International Joint Conference on Artificial Intelligence* (IJCAI 25, CCF-A), 2025.
+*International Joint Conference on Artificial Intelligence* (IJCAI, CCF-A), 2025.
+
+- ``CVPR 2025`` [Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition](), <br />
+**Y. Chen**, J. Guo\*, S. Guo, <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR, CCF-A), 2025.
 
 - ``ACM-MM 2024`` [Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition](https://dl.acm.org/doi/10.1145/3664647.3681196), <br />
 **Y. Chen**, J. Guo\*, T. He, X. Lu, L. Wang, <br>
-*ACM International Conference on Multimedia* (ACM MM 24, CCF-A), 2024.
+*ACM International Conference on Multimedia* (ACM MM, CCF-A), 2024.
 
 - ``BIBM 2023`` [PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/abstract/document/10385735), <br />
 **Y. Chen**, T. He, X. Gao, H. Cheng, L. Wang\*, <br />
-*IEEE International Conference on Bioinformatics and Biomedicine* (BIBM23, CCF-B), 2023.
+*IEEE International Conference on Bioinformatics and Biomedicine* (BIBM, CCF-B), 2023.
 
 - ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923), <br />
 **Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang\*, <br />
-*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC23), 2023.
+*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2023.
 
 ## 📔 Journals
 - ``KBS`` [Multi-Level Skeleton Self-Supervised Learning: Enhancing 3D action representation learning with Large Multimodal Models](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063), <br>
