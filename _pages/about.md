@@ -67,7 +67,7 @@ Z. Rao, J. Guo\*, M. Li, **Y. Chen**, M. Wang, <br>
 
 - ``EMBC 2023`` [STformer: Spatial-Temporal Transformer for Early Warning of Unplanned Extubation in ICU](https://ieeexplore.ieee.org/document/10340923), <br />
 **Y. Chen**, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang\*, <br />
-*45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2023.
+*Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2023.
 
 ## 📔 Journals
 - ``KBS`` [Multi-Level Skeleton Self-Supervised Learning: Enhancing 3D action representation learning with Large Multimodal Models](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063), <br>
