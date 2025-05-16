@@ -29,17 +29,17 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 # 🔥 News
 
-- *2025.04*: &nbsp;🎉🎉 [$\mathrm{MLS}^3\mathrm{L}$](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063) has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
-- *2025.02*: &nbsp;🎉🎉 [$\mathrm{Neuron}$]() has been accepted by CVPR 2025!
-- *2024.10*: &nbsp;🎉🎉 [$\mathrm{SLMM}$](https://ieeexplore.ieee.org/document/10742343) has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
-- *2024.09*: &nbsp;🎉🎉 [$\mathrm{C}^2\mathrm{VL}$](https://ieeexplore.ieee.org/abstract/document/10812782) has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
-- *2024.07*: &nbsp;🎉🎉 [$\mathrm{STAR}$](https://dl.acm.org/doi/10.1145/3664647.3681196) has been accepted by ACM MM 2024!
-- *2024.05*: &nbsp;🎉🎉 [$\mathrm{EGC}$](https://ieeexplore.ieee.org/document/10530287) has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
+- *2025.04*: &nbsp;🎉🎉 [MLS3L](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063) has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
+- *2025.02*: &nbsp;🎉🎉 [Neuron]() has been accepted by CVPR 2025!
+- *2024.10*: &nbsp;🎉🎉 [SLMM](https://ieeexplore.ieee.org/document/10742343) has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
+- *2024.09*: &nbsp;🎉🎉 [C2VL](https://ieeexplore.ieee.org/abstract/document/10812782) has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
+- *2024.07*: &nbsp;🎉🎉 [STAR](https://dl.acm.org/doi/10.1145/3664647.3681196) has been accepted by ACM MM 2024!
+- *2024.05*: &nbsp;🎉🎉 [EGC](https://ieeexplore.ieee.org/document/10530287) has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
-- *2023.10*: &nbsp;🎉🎉 [$\mathrm{PLFormer}$](https://ieeexplore.ieee.org/abstract/document/10385735) has been accepted by BIBM 2023!
-- *2023.10*: &nbsp;🎉🎉 [$\mathrm{MGL}$](https://www.sciencedirect.com/science/article/pii/S1047320323002079) has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
-- *2023.10*: &nbsp;🎉🎉 [$\mathrm{ST-Feature}$](https://www.sciencedirect.com/science/article/pii/S0952197623014781) has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
-- *2023.04*: &nbsp;🎉🎉 [$\mathrm{STformer}$](https://ieeexplore.ieee.org/document/10340923) has been accepted by EMBC 2023!
+- *2023.10*: &nbsp;🎉🎉 [PLFormer](https://ieeexplore.ieee.org/abstract/document/10385735) has been accepted by BIBM 2023!
+- *2023.10*: &nbsp;🎉🎉 [MGL](https://www.sciencedirect.com/science/article/pii/S1047320323002079) has been accepted by [Journal of Visual Communication and Image Representation (JVCIR)](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)!
+- *2023.10*: &nbsp;🎉🎉 [ST-Feature](https://www.sciencedirect.com/science/article/pii/S0952197623014781) has been accepted by [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)!
+- *2023.04*: &nbsp;🎉🎉 [STformer](https://ieeexplore.ieee.org/document/10340923) has been accepted by EMBC 2023!
 
 # 📝 Publications 
 
