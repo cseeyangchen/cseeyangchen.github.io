@@ -31,7 +31,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 - *2025.04*: &nbsp;🎉🎉 [$\mathrm{MLS}^3\mathrm{L}$](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063) has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
 - *2024.10*: &nbsp;🎉🎉 [SLMM](https://ieeexplore.ieee.org/document/10742343) has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
-- *2024.09*: &nbsp;🎉🎉 [$C^2VL$](https://ieeexplore.ieee.org/abstract/document/10812782) has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
+- *2024.09*: &nbsp;🎉🎉 [$\mathrm{C}^2\mathrm{VL}$](https://ieeexplore.ieee.org/abstract/document/10812782) has been accepted by [IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)!
 - *2024.07*: &nbsp;🎉🎉 [STAR](https://dl.acm.org/doi/10.1145/3664647.3681196) has been accepted by ACM MM 2024!
 - *2024.05*: &nbsp;🎉🎉 [EGC](https://ieeexplore.ieee.org/document/10530287) has been accepted by [IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)!
 - *2023.12*: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jingcai Guo](https://jingcaiguo.github.io/).
