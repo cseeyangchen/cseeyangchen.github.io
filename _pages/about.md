@@ -29,6 +29,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 # 🔥 News
 
+- *2025.04*: &nbsp;🎉🎉 [HGRL]() has been accepted by IJCAI 2025!
 - *2025.04*: &nbsp;🎉🎉 [MLS3L](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063) has been accepted by [Knowledge-Based Systems (KBS)](https://www.sciencedirect.com/journal/knowledge-based-systems)!
 - *2025.02*: &nbsp;🎉🎉 [Neuron]() has been accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉🎉 [SLMM](https://ieeexplore.ieee.org/document/10742343) has been accepted by [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)!
