@@ -49,7 +49,7 @@ My research interests include **Human Action Recognition**, **Zero/Few-shot Lear
 
 ## 📄 Conferences
 
-- ``IJCAI 2025`` [Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning](), <br />
+- ``IJCAI 2025`` [Exploring Transferable Homogeneous Groups for Compositional Zero-Shot Learning](), <br />
 Z. Rao, J. Guo\*, M. Li, **Y. Chen**, M. Wang, <br>
 *International Joint Conference on Artificial Intelligence* (IJCAI, CCF-A), 2025.
 
