@@ -118,6 +118,7 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 
 # 💻 Services
 ## 📑 Journal Reviewer
+- Reviewer for IEEE Transactions on Image Processing  (IEEE TIP)
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology  (IEEE TCSVT)
 - Reviewer for Neural Networks (NN)
 - Reviewer for Information Fusion (INFFUS)
