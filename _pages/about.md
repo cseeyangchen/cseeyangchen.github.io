@@ -166,6 +166,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
       <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/Neuron" class="publication-link-tag github">Code</a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/Neuron?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/cseeyangchen/Neuron?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
 </div>
