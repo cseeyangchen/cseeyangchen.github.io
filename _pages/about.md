@@ -125,7 +125,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 ## 📋 A. Preprints
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 80px;">
+  <div class="publication-image" style="width: 200px; height: 50px;">
     <div>
       <div class="badge">arXiv 2025</div>
       <img src="/images/papers/chen_2025arxiv_flora.png" alt="arXiv 2025">
