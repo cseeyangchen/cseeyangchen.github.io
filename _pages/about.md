@@ -128,6 +128,24 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
       <div class="badge">arXiv 2025</div>
+      <img src="/images/papers/chen_2025arxiv_flora.png" alt="arXiv 2025">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition</span>, <br />
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Li, Z. Rao, D. Zeng, S. Guo, J. Guo*,<br>
+    <em>arXiv</em>, 2025.
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2511.09388" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 80px;">
+    <div>
+      <div class="badge">arXiv 2025</div>
       <img src="/images/papers/chen_2025_arxiv.png" alt="arXiv 2025">
     </div>
   </div>
