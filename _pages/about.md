@@ -138,6 +138,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2511.09388" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/cseeyangchen/Flora?style=social" alt="GitHub stars" class="github-stars">
     </div>
   </div>
 </div>
