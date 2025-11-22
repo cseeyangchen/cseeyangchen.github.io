@@ -32,6 +32,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <a href="https://arxiv.org/abs/2501.09411">arXiv25</a> <br>
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
+    <a href="https://arxiv.org/abs/2511.09388">arXiv25</a>,
     <a href="https://arxiv.org/abs/2411.11288">CVPR25</a>, 
     <a href="https://dl.acm.org/doi/10.1145/3664647.3681196">MM24</a>, 
     <a href="https://ieeexplore.ieee.org/document/10742343">TCSVT24</a>, 
