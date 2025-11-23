@@ -396,5 +396,5 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 
 # 💻 Academic Services
 - 📚 Journal Reviewer: TIP, TMM, TCSVT, PR, INFFUS, ESWA, NN, CVIU, JBHI, BSPC, OJ-CS
-- 👥 Conference Reviewer: CVPR, NeurIPS, ICLR, ICML, ACM-MM, AAAI, IJCAI, MICCAI
+- 👥 Conference Reviewer: NeurIPS, ICLR, ICML, ACM-MM, AAAI, IJCAI, MICCAI
 
