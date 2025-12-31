@@ -33,6 +33,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
     <a href="https://arxiv.org/abs/2511.09388">arXiv25</a>,
+    <a href="">TCSVT25</a>,
     <a href="https://arxiv.org/abs/2411.11288">CVPR25</a>, 
     <a href="https://dl.acm.org/doi/10.1145/3664647.3681196">MM24</a>, 
     <a href="https://ieeexplore.ieee.org/document/10742343">TCSVT24</a>, 
@@ -58,7 +59,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
-    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10742343">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
+    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="">HGRL</a> is accepted by <a href="https://2025.ijcai.org/">IJCAI 2025</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063">MLS3L</a> is accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-Based Systems (KBS)</a>!</li>
     <li><em>2025.02</em>: &nbsp;🎉🎉 <a href="">Neuron</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2025</a>!</li>
