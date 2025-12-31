@@ -58,6 +58,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
+    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10742343">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="">HGRL</a> is accepted by <a href="https://2025.ijcai.org/">IJCAI 2025</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063">MLS3L</a> is accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-Based Systems (KBS)</a>!</li>
     <li><em>2025.02</em>: &nbsp;🎉🎉 <a href="">Neuron</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2025</a>!</li>
@@ -267,6 +268,25 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 <div style="margin-top: 2em;"></div>
 
 ## 📘 C. Journals
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 95px;">
+    <div>
+      <div class="badge">TCSVT 2025</div>
+      <img src="/images/papers/chen_2025_tcsvt_star_pp.png" alt="TCSVT 2025">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition</span>, <br />
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, M. Li, Z. Rao, S. Guo <br>
+    <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2025.
+    <div class="publication-links">
+      <a href="" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/cseeyangchen/STAR_pp?style=social" alt="GitHub stars" class="github-stars">
+    </div>
+  </div>
+</div>
 
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
