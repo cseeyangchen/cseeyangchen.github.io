@@ -270,7 +270,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 ## 📘 C. Journals
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 95px;">
+  <div class="publication-image" style="width: 200px; height: 90px;">
     <div>
       <div class="badge">TCSVT 2025</div>
       <img src="/images/papers/chen_2025_tcsvt_star_pp.png" alt="TCSVT 2025">
