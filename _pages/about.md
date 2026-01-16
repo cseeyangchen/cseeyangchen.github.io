@@ -33,7 +33,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
     <a href="https://arxiv.org/abs/2511.09388">arXiv25</a>,
-    <a href="">TCSVT25</a>,
+    <a href="https://ieeexplore.ieee.org/document/11339971">TCSVT25</a>,
     <a href="https://arxiv.org/abs/2411.11288">CVPR25</a>, 
     <a href="https://dl.acm.org/doi/10.1145/3664647.3681196">MM24</a>, 
     <a href="https://ieeexplore.ieee.org/document/10742343">TCSVT24</a>, 
@@ -59,10 +59,10 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
-    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
+    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11339971">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="">HGRL</a> is accepted by <a href="https://2025.ijcai.org/">IJCAI 2025</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063">MLS3L</a> is accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-Based Systems (KBS)</a>!</li>
-    <li><em>2025.02</em>: &nbsp;🎉🎉 <a href="">Neuron</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2025</a>!</li>
+    <li><em>2025.02</em>: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html">Neuron</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2025</a>!</li>
     <li><em>2024.10</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10742343">SLMM</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
     <li><em>2024.09</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10812782">C2VL</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE Transactions on Multimedia (TMM)</a>!</li>
     <li><em>2024.07</em>: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3664647.3681196">STAR</a> is accepted by <a href="https://2024.acmmm.org/">ACM MM 2024</a>!</li>
@@ -282,7 +282,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, M. Li, Z. Rao, S. Guo <br>
     <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2025.
     <div class="publication-links">
-      <a href="" class="publication-link-tag paper">Paper</a>
+      <a href="https://ieeexplore.ieee.org/document/11339971" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github">Code</a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/STAR_pp?style=social" alt="GitHub stars" class="github-stars">
     </div>
