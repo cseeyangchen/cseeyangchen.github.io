@@ -127,24 +127,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 ## 📋 A. Preprints
 
-<div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 50px;">
-    <div>
-      <div class="badge">arXiv 2025</div>
-      <img src="/images/papers/chen_2025arxiv_flora.png" alt="arXiv 2025">
-    </div>
-  </div>
-  <div class="publication-content">
-    <span class="title-text">Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition</span>, <br />
-    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Li, Z. Rao, D. Zeng, S. Guo, J. Guo*,<br>
-    <em>arXiv</em>, 2025.
-    <div class="publication-links">
-      <a href="https://arxiv.org/abs/2511.09388" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github">Code</a>
-      <img src="https://img.shields.io/github/stars/cseeyangchen/Flora?style=social" alt="GitHub stars" class="github-stars">
-    </div>
-  </div>
-</div>
+
 
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
@@ -174,6 +157,25 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 ## 🎤 B. Conferences
 
 <div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 50px;">
+    <div>
+      <div class="badge">CVPR 2026 Findings</div>
+      <img src="/images/papers/chen_2026_cvpr_findings_flora.png" alt="CVPR 2026 Findings">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition</span>, <br />
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Li, Z. Rao, D. Zeng, S. Guo, J. Guo*,<br>
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR Findings</span>), 2026.
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2511.09388" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/cseeyangchen/Flora?style=social" alt="GitHub stars" class="github-stars">
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
       <div class="badge">CVPR 2025</div>
@@ -183,7 +185,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, S. Guo, D. Tao,<br>
-    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>, <span class="rank-text">CCF-A</span>), 2025.
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>), 2025.
+    <!-- <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>, <span class="rank-text">CCF-A</span>), 2025. -->
     <div class="publication-links">
       <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/Neuron" class="publication-link-tag github">Code</a>
@@ -203,7 +206,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Exploring Transferable Homogeneous Groups for Compositional Zero-Shot Learning</span>, <br />
     Z. Rao, J. Guo*, M. Li, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Wang, <br>
-    <em>International Joint Conference on Artificial Intelligence</em> (<span class="venue-text">IJCAI</span>, <span class="rank-text">CCF-A</span>), 2025.
+    <em>International Joint Conference on Artificial Intelligence</em> (<span class="venue-text">IJCAI</span>), 2025.
+    <!-- <em>International Joint Conference on Artificial Intelligence</em> (<span class="venue-text">IJCAI</span>, <span class="rank-text">CCF-A</span>), 2025. -->
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2501.10695" class="publication-link-tag paper">Paper</a>
     </div>
@@ -220,7 +224,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, T. He, X. Lu, L. Wang, <br>
-    <em>ACM International Conference on Multimedia</em> (<span class="venue-text">ACM MM</span>, <span class="rank-text">CCF-A</span>), 2024.
+    <!-- <em>ACM International Conference on Multimedia</em> (<span class="venue-text">ACM MM</span>, <span class="rank-text">CCF-A</span>), 2024. -->
+    <em>ACM International Conference on Multimedia</em> (<span class="venue-text">ACM MM</span>), 2024.
     <div class="publication-links">
       <a href="https://dl.acm.org/doi/10.1145/3664647.3681196" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/STAR" class="publication-link-tag github">Code</a>
@@ -242,7 +247,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">PLFormer: Prompt Learning for Early Warning of Unplanned Extubation in ICU</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, T. He, X. Gao, H. Cheng, L. Wang*, <br>
-    <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<span class="venue-text">BIBM</span>, <span class="rank-text">CCF-B</span>), 2023.
+    <!-- <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<span class="venue-text">BIBM</span>, <span class="rank-text">CCF-B</span>), 2023. -->
+    <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<span class="venue-text">BIBM</span>), 2023.
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10385735" class="publication-link-tag paper">Paper</a>
     </div>
@@ -280,7 +286,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, M. Li, Z. Rao, S. Guo <br>
-    <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2025.
+    <!-- <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2025. -->
+    <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>), 2025.
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/11339971" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github">Code</a>
@@ -299,7 +306,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Multi-Level Skeleton Self-Supervised Learning: Enhancing 3D action representation learning with Large Multimodal Models</span>, <br />
      T. He, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, X. Gao, L. Wang, R. Huang, H. Cheng* <br>
-    <em>Knowledge-Based Systems</em> (<span class="venue-text">KBS</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=7.6</span>), 2025.
+    <!-- <em>Knowledge-Based Systems</em> (<span class="venue-text">KBS</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=7.6</span>), 2025. -->
+    <em>Knowledge-Based Systems</em> (<span class="venue-text">KBS</span>), 2025.
     <div class="publication-links">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063" class="publication-link-tag paper">Paper</a>
     </div>
@@ -316,7 +324,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, T. He, J. Fu, L. Wang*, J. Guo, T. Hu, H. Cheng <br>
-    <em>IEEE Transactions on Multimedia</em> (<span class="venue-text">TMM</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=9.7</span>), 2024.
+    <!-- <em>IEEE Transactions on Multimedia</em> (<span class="venue-text">TMM</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=9.7</span>), 2024. -->
+    <em>IEEE Transactions on Multimedia</em> (<span class="venue-text">TMM</span>), 2024.
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10812782" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/C2VL" class="publication-link-tag github">Code</a>
@@ -334,7 +343,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Enhancing Skeleton-Based Action Recognition with Language Descriptions from Pre-trained Large Multimodal Models</span>, <br />
     T. He, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, X. Gao, L. Wang, T. Hu, H. Cheng* <br>
-    <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2024.
+    <!-- <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2024. -->
+    <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>), 2024.
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/10742343" class="publication-link-tag paper">Paper</a>
     </div>
@@ -351,7 +361,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">An Expert-Knowledge-based Graph Convolutional Network for Skeleton-based Physical Rehabilitation Exercises Assessment</span>, <br />
     T. He, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, L. Wang, H. Cheng*, <br/>
-    <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (<span class="venue-text">TNSRE</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=5.2</span>), 2024.
+    <!-- <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (<span class="venue-text">TNSRE</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=5.2</span>), 2024. -->
+    <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (<span class="venue-text">TNSRE</span>), 2024.
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/10530287" class="publication-link-tag paper">Paper</a>
     </div>
@@ -368,7 +379,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Spatio-Temporal Features for Fast Early Warning of Unplanned Self-Extubation in ICU</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, L. Wang*, G. Wang, S. Yang, Y. Wang, M. Xiang, X. Zhang, H. Chen, D. Hu, H. Cheng, <br />
-    <em>Engineering Applications of Artificial Intelligence</em> (<span class="venue-text">EAAI</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=8.0</span>), 2023.
+    <!-- <em>Engineering Applications of Artificial Intelligence</em> (<span class="venue-text">EAAI</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=8.0</span>), 2023. -->
+    <em>Engineering Applications of Artificial Intelligence</em> (<span class="venue-text">EAAI</span>), 2023.
     <div class="publication-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0952197623014781" class="publication-link-tag paper">Paper</a>
     </div>
@@ -386,7 +398,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">Multi-view Graph Convolution Network for the Recognition of Human Action with Spatial and Temporal Occlusion Problems</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, L. Wang*, D. Hu, H. Cheng, <br />
-    <em>Journal of Visual Communication and Image Representation</em> (<span class="venue-text">JVCIR</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q2</span>, <span class="rank-text">IF=3.1</span>), 2023.
+    <!-- <em>Journal of Visual Communication and Image Representation</em> (<span class="venue-text">JVCIR</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q2</span>, <span class="rank-text">IF=3.1</span>), 2023. -->
+    <em>Journal of Visual Communication and Image Representation</em> (<span class="venue-text">JVCIR</span>), 2023.
     <div class="publication-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1047320323002079" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/MGL" class="publication-link-tag github">Code</a>
