@@ -176,6 +176,24 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   </div>
 </div>
 
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 100px;">
+    <div>
+      <div class="badge">CVPR 2026</div>
+      <img src="/images/papers/li_2026_cvpr_sglora.png" alt="CVPR 2026">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">SG-LoRA: Semantic-guided LoRA Parameters Generation</span>, <br />
+    M. Li, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, Z. Rao, C. Jiang, K. Wei, J. Guo*,<br>
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>), 2026.
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2509.10535" class="publication-link-tag paper">Paper</a>
+    </div>
+  </div>
+</div>
+
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
