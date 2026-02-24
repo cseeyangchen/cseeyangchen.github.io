@@ -59,19 +59,19 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
-    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2509.10535">SG-LoRA</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Main Track</a> and <a href="https://arxiv.org/abs/2511.09388">Flora</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Findings Track</a>!</li>
-    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11339971">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
+    <li><em>2026.02</em>: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2509.10535">SG-LoRA</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Main Track</a> and <a href="https://arxiv.org/abs/2511.09388">Flora</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Findings Track</a>!</li>
+    <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11339971">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="">HGRL</a> is accepted by <a href="https://2025.ijcai.org/">IJCAI 2025</a>!</li>
-    <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063">MLS3L</a> is accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-Based Systems (KBS)</a>!</li>
+    <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063">MLS3L</a> is accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">KBS</a>!</li>
     <li><em>2025.02</em>: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html">Neuron</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2025</a>!</li>
-    <li><em>2024.10</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10742343">SLMM</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>!</li>
-    <li><em>2024.09</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10812782">C2VL</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE Transactions on Multimedia (TMM)</a>!</li>
+    <li><em>2024.10</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10742343">SLMM</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>!</li>
+    <li><em>2024.09</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10812782">C2VL</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>!</li>
     <li><em>2024.07</em>: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3664647.3681196">STAR</a> is accepted by <a href="https://2024.acmmm.org/">ACM MM 2024</a>!</li>
-    <li><em>2024.05</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10530287">EGC</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333">IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)</a>!</li>
+    <li><em>2024.05</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10530287">EGC</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333">TNSRE</a>!</li>
     <li><em>2023.12</em>: &nbsp;🎉🎉 I am admitted to the Ph.D. program at The Hong Kong Polytechnic University (PolyU) under the supervision of <a href="https://jingcaiguo.github.io/">Prof. Jingcai Guo</a>.</li>
     <li><em>2023.10</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10385735">PLFormer</a> is accepted by <a href="https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/">BIBM 2023</a>!</li>
-    <li><em>2023.10</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S1047320323002079">MGL</a> is accepted by <a href="https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation">Journal of Visual Communication and Image Representation (JVCIR)</a>!</li>
-    <li><em>2023.10</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S0952197623014781">ST-Feature</a> is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence (EAAI)</a>!</li>
+    <li><em>2023.10</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S1047320323002079">MGL</a> is accepted by <a href="https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation">JVCIR</a>!</li>
+    <li><em>2023.10</em>: &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S0952197623014781">ST-Feature</a> is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a>!</li>
     <li><em>2023.04</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10340923">STformer</a> is accepted by <a href="https://embc.embs.org/2023/">EMBC 2023</a>!</li>
   </ul>
 </div>
