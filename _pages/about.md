@@ -160,8 +160,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 50px;">
     <div>
-      <div class="badge">CVPR 2026 Findings</div>
-      <img src="/images/papers/chen_2026_cvpr_findings_flora.png" alt="CVPR 2026 Findings">
+      <div class="badge">CVPR Findings 2026</div>
+      <img src="/images/papers/chen_2026_cvpr_findings_flora.png" alt="CVPR Findings 2026">
     </div>
   </div>
   <div class="publication-content">
