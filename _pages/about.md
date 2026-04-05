@@ -311,6 +311,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
       <a href="https://ieeexplore.ieee.org/document/11339971" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github">Code</a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/STAR_pp?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/cseeyangchen/STAR_pp?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
 </div>
