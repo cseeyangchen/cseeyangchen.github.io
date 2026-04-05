@@ -20,8 +20,12 @@ redirect_from:
 # 👋 About Me
 
 Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechnic University (PolyU, 香港理工大学)](https://www.polyu.edu.hk/en/) in Hong Kong SAR, where I'm fortunate to be supervised by [Prof. Jingcai Guo](https://jingcaiguo.github.io/). Prior to this, I received my M.Eng. degree (2024) in Information and Communication Engineering from the [University of Electronic Science and Technology of China (UESTC, 电子科技大学)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I was lucky to have been advised by [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm). I also earned my B.Sc. degree (2021) in Electronic Information Science and Technology and my B.B.A. degree (2021) in Business Administration from [UESTC](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51).
-<img id="github-total-stars" src="https://img.shields.io/badge/Total%20Stars-loading-lightgrey?style=social&logo=github">
-<img id="github-total-forks" src="https://img.shields.io/badge/Total%20Forks-loading-lightgrey?style=social&logo=github">
+<img id="github-total-stars"
+     style="vertical-align:-2px; margin-left:6px;"
+     src="https://img.shields.io/badge/Total%20Stars-loading-lightgrey?style=social&logo=github">
+<img id="github-total-forks"
+     style="vertical-align:-2px; margin-left:4px;"
+     src="https://img.shields.io/badge/Total%20Forks-loading-lightgrey?style=social&logo=github">
 
 <script>
 (async function () {
