@@ -20,6 +20,48 @@ redirect_from:
 # 👋 About Me
 
 Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechnic University (PolyU, 香港理工大学)](https://www.polyu.edu.hk/en/) in Hong Kong SAR, where I'm fortunate to be supervised by [Prof. Jingcai Guo](https://jingcaiguo.github.io/). Prior to this, I received my M.Eng. degree (2024) in Information and Communication Engineering from the [University of Electronic Science and Technology of China (UESTC, 电子科技大学)](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51) in Chengdu, China, where I was lucky to have been advised by [Prof. Ling Wang](https://faculty.uestc.edu.cn/eewangling/zh_CN/index.htm). I also earned my B.Sc. degree (2021) in Electronic Information Science and Technology and my B.B.A. degree (2021) in Business Administration from [UESTC](https://www.uestc.edu.cn/3974ba6dfa50d5c04a9414d3ce8bfd34.html?n=8e7z368tn51).
+<img id="github-total-stars" src="https://img.shields.io/badge/Total%20Stars-loading-lightgrey?style=social&logo=github">
+<img id="github-total-forks" src="https://img.shields.io/badge/Total%20Forks-loading-lightgrey?style=social&logo=github">
+
+<script>
+(async function () {
+  const username = "cseeyangchen";
+  async function fetchAllRepos(user) {
+    let page = 1;
+    let repos = [];
+    while (true) {
+      const res = await fetch(
+        `https://api.github.com/users/${user}/repos?per_page=100&page=${page}`
+      );
+      if (!res.ok) break;
+      const data = await res.json();
+      if (!Array.isArray(data) || data.length === 0) break;
+      repos = repos.concat(data);
+      page++;
+    }
+    return repos;
+  }
+  try {
+    const repos = await fetchAllRepos(username);
+    const myRepos = repos.filter(repo => !repo.fork);
+    const totalStars = myRepos.reduce(
+      (sum, repo) => sum + (repo.stargazers_count || 0),
+      0
+    );
+    const totalForks = myRepos.reduce(
+      (sum, repo) => sum + (repo.forks_count || 0),
+      0
+    );
+    document.getElementById("github-total-stars").src =
+      `https://img.shields.io/badge/Total%20Stars-${totalStars}-lightgrey?style=social&logo=github`;
+    document.getElementById("github-total-forks").src =
+      `https://img.shields.io/badge/Total%20Forks-${totalForks}-lightgrey?style=social&logo=github`;
+  } catch (err) {
+    console.warn("GitHub stats loading failed:", err);
+  }
+})();
+</script>
+
 
 <div class="research-with-image">
   <div class="research-image">
