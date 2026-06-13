@@ -185,7 +185,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   </div>
   <div class="publication-content">
     <span class="title-text">Towards Robust and Realistic Human Pose Estimation via WiFi Signals</span>, <br />
-    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*, S. Guo, J. Zhou, D. Tao,<br>
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*,<br>
     <em>arXiv</em>, 2025.
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2501.09411" class="publication-link-tag paper">Paper</a>
@@ -212,6 +212,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   </div>
   <div class="publication-content">
     <span class="title-text">Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition</span>, <br />
+    <span class="venue-text">(CVPR Compute Transparency Champion Award)</span><br>
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Li, Z. Rao, D. Zeng, S. Guo, J. Guo*,<br>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR Findings</span>), 2026.
     <div class="publication-links">
@@ -496,5 +497,5 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 
 # 💻 Academic Services
 - 📚 Journal Reviewer: TIP, TMM, TCSVT, TNNLS, Information Fusion, PR, ESWA, KBS, Neurocomputing, NN, CVIU, JBHI, BSPC, OJ-CS
-- 👥 Conference Reviewer: NeurIPS, ICLR, ICML, ACM-MM, AAAI, IJCAI, MICCAI
+- 👥 Conference Reviewer: NeurIPS, ICLR, ICML, ACM-MM, AAAI, IJCAI, MICCAI, MIND
 
