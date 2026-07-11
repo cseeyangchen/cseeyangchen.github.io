@@ -353,7 +353,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
   <div class="publication-content">
     <span class="title-text">DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals</span>, <br />
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*,<br>
-    <em>Edge Intelligence and Systems</em>, (<span class="venue-text">EIS</span>), 2025.
+    <em>Edge Intelligence and Systems</em>, (<span class="venue-text">EIS</span>), 2026.
     <div class="publication-links">
       <a href="https://www.sciltp.com/journals/eis/articles/2606004157" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/cseeyangchen/DT-Pose" class="publication-link-tag github">Code</a>
