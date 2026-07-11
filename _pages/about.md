@@ -75,7 +75,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text">data-efficient human-centric behavior analysis and modeling</span>, including but not limited to <span class="highlight-text sub-category">wireless pose sensing</span>, <span class="highlight-text sub-category">human action understanding</span>, <span class="highlight-text sub-category">motion representation learning</span>, and their <span class="highlight-text sub-category">applications in healthcare</span>. To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
     
     - <span class="highlight-text sub-category">wireless pose sensing</span>: 
-    <a href="https://arxiv.org/abs/2501.09411">arXiv25</a> <br>
+    <a href="https://www.sciltp.com/journals/eis/articles/2606004157">EIS26</a> <br>
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
     <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html">CVPR26 Findings</a>,
@@ -105,6 +105,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
+    <li><em>2026.06</em>: &nbsp;🎉🎉 <a href="https://www.sciltp.com/journals/eis/articles/2606004157">DT-Pose</a> is accepted by <a href="https://www.sciltp.com/journals/eis">EIS</a>!</li>
     <li><em>2026.02</em>: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_SG-LoRA_Semantic-guided_LoRA_Parameters_Generation_CVPR_2026_paper.html">SG-LoRA</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Main Track</a> and <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html">Flora</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Findings Track</a>!</li>
     <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11339971">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>!</li>
     <li><em>2025.04</em>: &nbsp;🎉🎉 <a href="">HGRL</a> is accepted by <a href="https://2025.ijcai.org/">IJCAI 2025</a>!</li>
@@ -176,7 +177,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 
 
-<div class="publication-item">
+<!-- <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
       <div class="badge">arXiv 2025</div>
@@ -194,7 +195,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
       <img src="https://img.shields.io/github/forks/cseeyangchen/DT-Pose?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
-</div>
+</div> -->
 
 <div style="margin-top: 2em;"></div>
 
@@ -341,6 +342,27 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 <div style="margin-top: 2em;"></div>
 
 ## 📘 C. Journals
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 80px;">
+    <div>
+      <div class="badge">EIS 2026</div>
+      <img src="/images/papers/chen_2025_arxiv.png" alt="arXiv 2025">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals</span>, <br />
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*,<br>
+    <em>Edge Intelligence and Systems</em>, (<span class="venue-text">EIS</span>), 2025.
+    <div class="publication-links">
+      <a href="https://www.sciltp.com/journals/eis/articles/2606004157" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/cseeyangchen/DT-Pose" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/cseeyangchen/DT-Pose?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/cseeyangchen/DT-Pose?style=social" alt="GitHub forks" class="github-forks">
+    </div>
+  </div>
+</div>
+
 
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 90px;">
