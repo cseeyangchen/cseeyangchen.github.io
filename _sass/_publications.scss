@@ -134,135 +134,116 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
+  --publication-control-height: 21px;
 }
 
 /* GitHub Stars & Forks 样式 */
 .github-stars,
 .github-forks {
-  height: 21px; /* 调整为与按钮高度一致 */
+  height: var(--publication-control-height);
   vertical-align: middle;
   margin-left: 0;
   border-radius: 4px;
-  display: inline-flex; /* 改为inline-flex以更好地控制对齐 */
-  align-items: center; /* 垂直居中对齐 */
-  margin-top: 1px; /* 微调垂直位置 */
+  display: inline-block;
+  align-self: center;
+  flex: 0 0 auto;
+  margin-top: 0;
 }
 
 
 
 /* 调整链接标签样式以确保一致的对齐 */
 .publication-link-tag {
-  display: inline-flex; /* 改为inline-flex */
-  align-items: center; /* 垂直居中对齐 */
-  justify-content: center; /* 水平居中对齐 */
-  padding: 3px 6px; /* 调整padding */
+  --link-accent: #475467;
+  --link-accent-soft: rgba(71, 84, 103, 0.12);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  height: var(--publication-control-height);
+  min-height: var(--publication-control-height);
+  padding: 0 7px;
   margin-right: 0;
-  margin-bottom: 0; /* 移除底部margin */
-  border-radius: 4px;
-  font-family: monospace;
-  font-size: 0.7em;
-  font-weight: bold;
+  margin-bottom: 0;
+  border-radius: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 11px;
+  font-weight: 700;
   text-decoration: none;
-  transition: all 0.2s ease;
-  border: 1px solid;
-  background-color: rgba(255, 255, 255, 0.9);
-  backdrop-filter: blur(5px);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  height: 20px; /* 与stars图标高度一致 */
-  line-height: 1; /* 重置行高 */
+  letter-spacing: 0;
+  line-height: 1;
+  white-space: nowrap;
   box-sizing: border-box;
+  color: #344054;
+  border: 1px solid #d6dde6;
+  background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 1px 2px rgba(16, 24, 40, 0.06);
+  transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.publication-link-tag i {
+  width: 11px;
+  font-size: 11px;
+  line-height: 1;
+  text-align: center;
+  flex: 0 0 auto;
+  color: var(--link-accent);
+}
+
+.publication-link-tag span {
+  line-height: 1;
+}
+
+.publication-link-tag:hover {
+  color: #1d2939;
+  border-color: var(--link-accent);
+  background: linear-gradient(180deg, #ffffff 0%, var(--link-accent-soft) 100%);
+  text-decoration: none;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 3px 8px rgba(16, 24, 40, 0.12);
+  transform: translateY(-1px);
 }
 
 /* GitHub 标签 */
 .publication-link-tag.github {
-  color: #24292f;
-  border-color: #d0d7de;
-}
-
-.publication-link-tag.github:hover {
-  background-color: #24292f;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #24292f;
+  --link-accent-soft: rgba(36, 41, 47, 0.10);
 }
 
 /* Demo 标签 */
 .publication-link-tag.demo {
-  color: #15803d;
-  border-color: #86efac;
-}
-
-.publication-link-tag.demo:hover {
-  background-color: #15803d;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #15803d;
+  --link-accent-soft: rgba(21, 128, 61, 0.10);
 }
 
 /* Video 标签 */
 .publication-link-tag.video {
-  color: #0284c7;
-  border-color: #7dd3fc;
-}
-
-.publication-link-tag.video:hover {
-  background-color: #0284c7;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #026aa2;
+  --link-accent-soft: rgba(2, 106, 162, 0.10);
 }
 
 /* Paper 标签 */
 .publication-link-tag.paper {
-  color: #856404;
-  border-color: #ffeaa7;
-}
-
-.publication-link-tag.paper:hover {
-  background-color: #856404;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #b42318;
+  --link-accent-soft: rgba(180, 35, 24, 0.10);
 }
 
 /* Project Page 标签 */
 .publication-link-tag.project {
-  color: #0969da;
-  border-color: #54aeff;
-}
-
-.publication-link-tag.project:hover {
-  background-color: #0969da;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #0e7090;
+  --link-accent-soft: rgba(14, 112, 144, 0.10);
 }
 
 /* Poster 标签 */
 .publication-link-tag.poster {
-  color: #dc2626;
-  border-color: #fca5a5;
-}
-
-.publication-link-tag.poster:hover {
-  background-color: #dc2626;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #c4320a;
+  --link-accent-soft: rgba(196, 50, 10, 0.10);
 }
 
 /* Slides 标签 */
 .publication-link-tag.slides {
-  color: #a21caf;
-  border-color: #e879f9;
-}
-
-.publication-link-tag.slides:hover {
-  background-color: #a21caf;
-  color: #ffffff;
-  text-decoration: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  --link-accent: #7a5af8;
+  --link-accent-soft: rgba(122, 90, 248, 0.10);
 }
 
 .publication-venue-tag {
@@ -289,6 +270,25 @@
 //   color: #0256cc;
 }
 
+.publication-content a.publication-link-tag,
+.publication-content a.publication-link-tag:hover {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publication-content a.publication-link-tag {
+  color: #344054;
+}
+
+.publication-content a.publication-link-tag:hover {
+  color: #1d2939;
+}
+
+.publication-content a.publication-link-tag:focus-visible {
+  outline: 2px solid #54aeff;
+  outline-offset: 2px;
+}
+
 .publication-content strong {
   font-weight: bold;
 }
@@ -300,29 +300,34 @@
 
 /* 响应式设计 */
 @media (max-width: 768px) {
-  .github-stars
+  .publication-links {
+    --publication-control-height: 20px;
+    gap: 5px;
+  }
+
+  .github-stars,
   .github-forks {
-    height: 18px;
-    margin-top: 0.5px;
+    height: var(--publication-control-height);
   }
   
   .publication-link-tag {
-    height: 18px;
-    font-size: 0.65em;
-    padding: 2px 5px;
+    font-size: 10.5px;
+    padding: 0 6px;
   }
 }
 
 @media (max-width: 480px) {
-  .github-stars
+  .publication-links {
+    --publication-control-height: 19px;
+  }
+
+  .github-stars,
   .github-forks {
-    height: 16px;
-    margin-top: 0px;
+    height: var(--publication-control-height);
   }
   
   .publication-link-tag {
-    height: 16px;
-    font-size: 0.6em;
-    padding: 2px 4px;
+    font-size: 10px;
+    padding: 0 5px;
   }
 }

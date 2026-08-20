@@ -72,9 +72,9 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <img src="images/icon_human.png" alt="Research Image">
   </div>
   <div class="research-content">
-    <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text">data-efficient human-centric behavior analysis and modeling</span>, including but not limited to <span class="highlight-text sub-category">wireless pose sensing</span>, <span class="highlight-text sub-category">human action understanding</span>, <span class="highlight-text sub-category">motion representation learning</span>, and their <span class="highlight-text sub-category">applications in healthcare</span>. To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
+    <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text">Human-Centric AI</span>, including but not limited to <span class="highlight-text sub-category">human pose sensing</span>, <span class="highlight-text sub-category">human action understanding</span>, <span class="highlight-text sub-category">motion representation learning</span>, and their <span class="highlight-text sub-category">applications in healthcare</span>. To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
     
-    - <span class="highlight-text sub-category">wireless pose sensing</span>: 
+    - <span class="highlight-text sub-category">human pose sensing</span>: 
     <a href="https://www.sciltp.com/journals/eis/articles/2606004157">EIS26</a> <br>
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
@@ -177,25 +177,26 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 
 
-<!-- <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 80px;">
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 140px;">
     <div>
-      <div class="badge">arXiv 2025</div>
-      <img src="/images/papers/chen_2025_arxiv.png" alt="arXiv 2025">
+      <div class="badge">arXiv 2026</div>
+      <img src="/images/papers/chen_2026_arxiv_human_centric_AI.png" alt="arXiv 2026">
     </div>
   </div>
   <div class="publication-content">
-    <span class="title-text">Towards Robust and Realistic Human Pose Estimation via WiFi Signals</span>, <br />
-    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*,<br>
-    <em>arXiv</em>, 2025.
+    <span class="title-text">Human-Centric Intelligence in the Era of Foundation Models: A Survey</span>, <br />
+    <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, T. Wang, X. Jiang, Y. Man, Y. Shao, M. Liu, Z. Chen, X. Cao, Q. Zhao, C. Liu, A. Zomaya, N. Sebe, J. Zhou, D. Tao, S. Guo, J. Guo*,<br>
+    <em>arXiv</em>, 2026.
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2501.09411" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/DT-Pose" class="publication-link-tag github">Code</a>
-      <img src="https://img.shields.io/github/stars/cseeyangchen/DT-Pose?style=social" alt="GitHub stars" class="github-stars">
-      <img src="https://img.shields.io/github/forks/cseeyangchen/DT-Pose?style=social" alt="GitHub forks" class="github-forks">
+      <a href="https://arxiv.org/abs/2608.18184" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://cseeyangchen.github.io/Human-Centric-AI/homepage/" class="publication-link-tag project"><i class="fas fa-home" aria-hidden="true"></i><span>Homepage</span></a>
+      <a href="https://github.com/cseeyangchen/Human-Centric-AI" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+      <img src="https://img.shields.io/github/stars/cseeyangchen/Human-Centric-AI?style=social" alt="GitHub stars" class="github-stars">
+      <!-- <img src="https://img.shields.io/github/forks/cseeyangchen/Human-Centric-AI?style=social" alt="GitHub forks" class="github-forks"> -->
     </div>
   </div>
-</div> -->
+</div>
 
 <div style="margin-top: 2em;"></div>
 
@@ -217,8 +218,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, M. Li, Z. Rao, D. Zeng, S. Guo, J. Guo*,<br>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR Findings</span>), 2026.
     <div class="publication-links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github">Code</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/Flora?style=social" alt="GitHub stars" class="github-stars">
     </div>
   </div>
@@ -237,7 +238,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     M. Li, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, Z. Rao, C. Jiang, K. Wei, J. Guo*,<br>
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>), 2026.
     <div class="publication-links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_SG-LoRA_Semantic-guided_LoRA_Parameters_Generation_CVPR_2026_paper.html" class="publication-link-tag paper">Paper</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_SG-LoRA_Semantic-guided_LoRA_Parameters_Generation_CVPR_2026_paper.html" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -255,8 +256,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>), 2025.
     <!-- <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<span class="venue-text">CVPR</span>, <span class="rank-text">CCF-A</span>), 2025. -->
     <div class="publication-links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/Neuron" class="publication-link-tag github">Code</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/Neuron" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/Neuron?style=social" alt="GitHub stars" class="github-stars">
       <img src="https://img.shields.io/github/forks/cseeyangchen/Neuron?style=social" alt="GitHub forks" class="github-forks">
     </div>
@@ -276,7 +277,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <em>International Joint Conference on Artificial Intelligence</em> (<span class="venue-text">IJCAI</span>), 2025.
     <!-- <em>International Joint Conference on Artificial Intelligence</em> (<span class="venue-text">IJCAI</span>, <span class="rank-text">CCF-A</span>), 2025. -->
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2501.10695" class="publication-link-tag paper">Paper</a>
+      <a href="https://arxiv.org/abs/2501.10695" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -294,8 +295,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>ACM International Conference on Multimedia</em> (<span class="venue-text">ACM MM</span>, <span class="rank-text">CCF-A</span>), 2024. -->
     <em>ACM International Conference on Multimedia</em> (<span class="venue-text">ACM MM</span>), 2024.
     <div class="publication-links">
-      <a href="https://dl.acm.org/doi/10.1145/3664647.3681196" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/STAR" class="publication-link-tag github">Code</a>
+      <a href="https://dl.acm.org/doi/10.1145/3664647.3681196" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/STAR" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/STAR?style=social" alt="GitHub stars" class="github-stars">
       <img src="https://img.shields.io/github/forks/cseeyangchen/STAR?style=social" alt="GitHub forks" class="github-forks">
     </div>
@@ -317,7 +318,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<span class="venue-text">BIBM</span>, <span class="rank-text">CCF-B</span>), 2023. -->
     <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<span class="venue-text">BIBM</span>), 2023.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10385735" class="publication-link-tag paper">Paper</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10385735" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -334,7 +335,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, S. Yang, Y. Wang, G. Wang, H. Cheng, L. Wang*, <br>
     <em>Annual International Conference of the IEEE Engineering in Medicine and Biology Society</em> (<span class="venue-text">EMBC</span>), 2023.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/10340923" class="publication-link-tag paper">Paper</a>
+      <a href="https://ieeexplore.ieee.org/document/10340923" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -355,8 +356,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Y. Chen</span>, J. Guo*,<br>
     <em>Edge Intelligence and Systems</em>, (<span class="venue-text">EIS</span>), 2026.
     <div class="publication-links">
-      <a href="https://www.sciltp.com/journals/eis/articles/2606004157" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/DT-Pose" class="publication-link-tag github">Code</a>
+      <a href="https://www.sciltp.com/journals/eis/articles/2606004157" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/DT-Pose" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/DT-Pose?style=social" alt="GitHub stars" class="github-stars">
       <img src="https://img.shields.io/github/forks/cseeyangchen/DT-Pose?style=social" alt="GitHub forks" class="github-forks">
     </div>
@@ -377,8 +378,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2025. -->
     <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>), 2025.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/11339971" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github">Code</a>
+      <a href="https://ieeexplore.ieee.org/document/11339971" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/STAR_pp" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/STAR_pp?style=social" alt="GitHub stars" class="github-stars">
       <img src="https://img.shields.io/github/forks/cseeyangchen/STAR_pp?style=social" alt="GitHub forks" class="github-forks">
     </div>
@@ -398,7 +399,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>Knowledge-Based Systems</em> (<span class="venue-text">KBS</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=7.6</span>), 2025. -->
     <em>Knowledge-Based Systems</em> (<span class="venue-text">KBS</span>), 2025.
     <div class="publication-links">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063" class="publication-link-tag paper">Paper</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125007063" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -416,8 +417,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>IEEE Transactions on Multimedia</em> (<span class="venue-text">TMM</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=9.7</span>), 2024. -->
     <em>IEEE Transactions on Multimedia</em> (<span class="venue-text">TMM</span>), 2024.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10812782" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/C2VL" class="publication-link-tag github">Code</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10812782" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/C2VL" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
     </div>
   </div>
 </div>
@@ -435,7 +436,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>, <span class="rank-text">CCF-B</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=11.1</span>), 2024. -->
     <em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<span class="venue-text">TCSVT</span>), 2024.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/10742343" class="publication-link-tag paper">Paper</a>
+      <a href="https://ieeexplore.ieee.org/document/10742343" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -453,7 +454,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (<span class="venue-text">TNSRE</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=5.2</span>), 2024. -->
     <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (<span class="venue-text">TNSRE</span>), 2024.
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/10530287" class="publication-link-tag paper">Paper</a>
+      <a href="https://ieeexplore.ieee.org/document/10530287" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -471,7 +472,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>Engineering Applications of Artificial Intelligence</em> (<span class="venue-text">EAAI</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=8.0</span>), 2023. -->
     <em>Engineering Applications of Artificial Intelligence</em> (<span class="venue-text">EAAI</span>), 2023.
     <div class="publication-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0952197623014781" class="publication-link-tag paper">Paper</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0952197623014781" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
     </div>
   </div>
 </div>
@@ -490,8 +491,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <!-- <em>Journal of Visual Communication and Image Representation</em> (<span class="venue-text">JVCIR</span>, <span class="rank-text">CCF-C</span>, <span class="rank-text">JCR-Q2</span>, <span class="rank-text">IF=3.1</span>), 2023. -->
     <em>Journal of Visual Communication and Image Representation</em> (<span class="venue-text">JVCIR</span>), 2023.
     <div class="publication-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S1047320323002079" class="publication-link-tag paper">Paper</a>
-      <a href="https://github.com/cseeyangchen/MGL" class="publication-link-tag github">Code</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S1047320323002079" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
+      <a href="https://github.com/cseeyangchen/MGL" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
     </div>
   </div>
 </div>
@@ -520,4 +521,3 @@ Public Number: CN 115565245 A, Application Date: 2022-10-10, Public Date: 2023-0
 # 💻 Academic Services
 - 📚 Journal Reviewer: TIP, TMM, TCSVT, TNNLS, Information Fusion, PR, ESWA, KBS, Neurocomputing, NN, CVIU, JBHI, BSPC, OJ-CS
 - 👥 Conference Reviewer: NeurIPS, ICLR, ICML, ACM-MM, AAAI, IJCAI, MICCAI, MIND
-
