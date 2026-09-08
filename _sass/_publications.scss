@@ -191,6 +191,14 @@
   color: var(--link-accent);
 }
 
+.publication-link-tag .publication-link-icon {
+  width: 12px;
+  height: 12px;
+  display: block;
+  flex: 0 0 auto;
+  object-fit: contain;
+}
+
 .publication-link-tag span {
   line-height: 1;
 }
@@ -232,6 +240,18 @@
 .publication-link-tag.project {
   --link-accent: #0e7090;
   --link-accent-soft: rgba(14, 112, 144, 0.10);
+}
+
+/* Hugging Face 标签 */
+.publication-link-tag.huggingface {
+  --link-accent: #b7791f;
+  --link-accent-soft: rgba(183, 121, 31, 0.11);
+}
+
+/* Media Coverage 标签 */
+.publication-link-tag.media {
+  --link-accent: #16855c;
+  --link-accent-soft: rgba(22, 133, 92, 0.10);
 }
 
 /* Poster 标签 */

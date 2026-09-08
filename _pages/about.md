@@ -105,6 +105,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
 
 <div class="news-container-custom">
   <ul class="news-list-custom">
+    <li><em>2026.08</em>: &nbsp;🎉🎉 <a href="https://github.com/cseeyangchen/Human-Centric-AI">Human-Centric AI Resources</a> has been released and is continuously updated. Welcome to follow!</li>
     <li><em>2026.06</em>: &nbsp;🎉🎉 <a href="https://www.sciltp.com/journals/eis/articles/2606004157">DT-Pose</a> is accepted by <a href="https://www.sciltp.com/journals/eis">EIS</a>!</li>
     <li><em>2026.02</em>: &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_SG-LoRA_Semantic-guided_LoRA_Parameters_Generation_CVPR_2026_paper.html">SG-LoRA</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Main Track</a> and <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html">Flora</a> is accepted by <a href="https://cvpr.thecvf.com/">CVPR 2026 Findings Track</a>!</li>
     <li><em>2025.12</em>: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11339971">STAR++</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>!</li>
@@ -191,6 +192,8 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2608.18184" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
       <a href="https://cseeyangchen.github.io/Human-Centric-AI/homepage/" class="publication-link-tag project"><i class="fas fa-home" aria-hidden="true"></i><span>Homepage</span></a>
+      <a href="https://huggingface.co/papers/2608.18184" class="publication-link-tag huggingface"><img src="/assets/icons/huggingface_logo-noborder.svg" alt="" class="publication-link-icon" aria-hidden="true"><span>Hugging Face</span></a>
+      <a href="https://mp.weixin.qq.com/s/GysggxpcIm-obiOj7GAqbA" class="publication-link-tag media"><i class="fab fa-weixin" aria-hidden="true"></i><span>机器之心</span></a>
       <a href="https://github.com/cseeyangchen/Human-Centric-AI" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/Human-Centric-AI?style=social" alt="GitHub stars" class="github-stars">
       <!-- <img src="https://img.shields.io/github/forks/cseeyangchen/Human-Centric-AI?style=social" alt="GitHub forks" class="github-forks"> -->
