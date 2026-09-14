@@ -224,6 +224,7 @@ Hi! I'm Yang Chen, currently a Ph.D. student of COMP at [The Hong Kong Polytechn
       <a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Learning_by_Neighbor-Aware_Semantics_Deciding_by_Open-Form_Flows_Towards_Robust_CVPRF_2026_paper.html" class="publication-link-tag paper"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a>
       <a href="https://github.com/cseeyangchen/Flora" class="publication-link-tag github"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <img src="https://img.shields.io/github/stars/cseeyangchen/Flora?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/cseeyangchen/Flora?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
 </div>
